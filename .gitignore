@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 .venv/
 pycache/
 *.db
 *.sqlite
 .idea/
+=======
+venv/
+.DS_Store
+__pycache__/
+*.pyc
+>>>>>>> ae23fde (выполнила задание 1)

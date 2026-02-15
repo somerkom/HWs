@@ -1,0 +1,6 @@
+-- database: /Users/arina/ge_lessons/db/todo.db
+
+SELECT * FROM tasks;
+INSERT INTO tasks (task) VALUES ("Zadacha");
+
+UPDATE tasks SET task = "Another" WHERE id = 1;
